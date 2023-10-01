@@ -133,7 +133,7 @@ function Home() {
         </div>
       </div>
       <div style={{ minWidth: "40%", maxWidth: '100%' }}>
-        <img className='animationimg mt-1' src={'https://avatars.githubusercontent.com/u/121414309?v=4'} alt="" />
+        <img className='animationimg mt-1' src={'https://avatars.githubusercontent.com/u/122217933?v=4'} alt="" />
 
       </div>
     </div>
